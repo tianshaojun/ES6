@@ -4,7 +4,7 @@
   "description": "工欲善其事，必先利其器！",
   "main": "index.js",
   "scripts": {
-    "build": "babel src/index.js -o dist/index.js"
+    "build": "babel src/index14.js -o dist/index14.js"
   },
   "repository": {
     "type": "git",
